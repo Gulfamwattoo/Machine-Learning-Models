@@ -25,40 +25,6 @@ This is part of my **continuous skill development** to become a professional **D
 
 ---
 
-## 📂 Repository Structure
-Learning-Journey/
-│── Core_Data_Science/
-│ ├── Python_Basics.ipynb
-│ ├── NumPy_Pandas.ipynb
-│ └── EDA_and_Visualization.ipynb
-│
-│── Machine_Learning/
-│ ├── Linear_Regression.ipynb
-│ ├── Logistic_Regression.ipynb
-│ └── Random_Forest.ipynb
-│
-│── Deep_Learning/
-│ ├── ANN_Implementation.ipynb
-│ ├── CNN_Implementation.ipynb
-│ ├── LSTM_Implementation.ipynb
-│
-│── NLP/
-│ ├── Text_Preprocessing.ipynb
-│ ├── Word_Embeddings.ipynb
-│ └── Transformers.ipynb
-│
-│── Generative_AI/
-│ ├── GPT_Text_Generation.ipynb
-│ ├── Image_Generation.ipynb
-│
-│── datasets/
-│── saved_models/
-│── README.md
-│── requirements.txt
-
-
-
----
 
 ## 🛠️ Tech Stack & Tools
 
